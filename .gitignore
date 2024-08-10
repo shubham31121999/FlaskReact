@@ -1,0 +1,36 @@
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.pyo
+*.pyd
+*.db
+
+# Virtual environment
+venv/
+.env/
+
+# Flask-specific
+instance/
+*.pyc
+
+# IDEs and editors
+.vscode/
+.idea/
+*.swp
+
+# Logs
+*.log
+
+
+
+
+
+
+
+
+# MyPy
+.mypy_cache/
+.dmypy.json
+.dmypy.jsons
